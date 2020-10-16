@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">DevOps & Infrastructure Engineering Enthusiast
+<br>
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"  width="30" height="30" />
  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="30" height="30"/> 
