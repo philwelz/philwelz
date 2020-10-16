@@ -30,5 +30,7 @@ Here are some ideas to get you started:
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9xa8hYh3Ct4jYGLwvHsic87Eakxdg8WtMlQ&usqp=CAU" alt="salt"  width="30" height="30" />
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSV-H6NstwGkcVFfNcRWrwRkExSloyF3I51oA&usqp=CAU" alt="ansible" height="30" /> 
  <img src="https://cdn.worldvectorlogo.com/logos/graylog.svg" alt="graylog" height="30" />  
- 
+<img src="https://cdn.worldvectorlogo.com/logos/hashicorp-vagrant.svg" alt="vagrant" height="30" /> 
+
+
 </p>
