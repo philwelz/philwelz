@@ -15,22 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">DevOps & Infrastructure Engineering Enthusiast
+<h3 align="center">Senior Kubernetes & DevOps Engineer
 <br>
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"  width="30" height="30" />
- <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="30" height="30"/> 
  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="30" height="30"/>
- <img src="https://img.icons8.com/color/48/000000/github.png" alt="github" width="30" height="30"/>
- <img src="https://img.icons8.com/color/48/000000/vmware.png" alt="vmware" width="30" height="30"/>
- <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"  width="30" height="30" /> 
+ <!--<img src="https://img.icons8.com/color/48/000000/github.png" alt="github" width="30" height="30"/> -->
+ <img src="https://img.icons8.com/nolan/64/github.png" alt="github2" width="30" height="30"/>
+ <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" alt="vmware" width="30" height="30"/>
  <img src="https://img.icons8.com/color/48/000000/kubernetes.svg" alt="kubernetes"  width="30" height="30" />
- <img src="https://helm.sh/img/helm.svg" alt="Helm" height="30" />
- <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="pi" width="30" height="30" /> 
- <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="terraform"  width="30" height="30" />
- <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="ansible" height="30" /> 
- <img src="https://cdn.worldvectorlogo.com/logos/saltstack.svg" alt="salt" height="30" />  
-<img src="https://cdn.worldvectorlogo.com/logos/hashicorp-vagrant.svg" alt="vagrant" height="30" /> 
-
-
+ <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_terraform_icon_130125.png" alt="terraform"  width="30" height="30" />
+ <img src="https://avatars.githubusercontent.com/u/52158677?s=280&v=4" alt="vmware" width="30" height="30"/>
+ <img src="https://argoproj.github.io/argo-cd/assets/logo.png" alt="vmware" width="30" height="30"/>
+ 
 </p>
