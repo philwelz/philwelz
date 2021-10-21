@@ -26,6 +26,6 @@ Here are some ideas to get you started:
  <img src="https://img.icons8.com/color/48/000000/kubernetes.svg" alt="kubernetes"  width="30" height="30" />
  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_terraform_icon_130125.png" alt="terraform"  width="30" height="30" />
  <img src="https://avatars.githubusercontent.com/u/52158677?s=280&v=4" alt="vmware" width="30" height="30"/>
- <img src="https://argoproj.github.io/argo-cd/assets/logo.png" alt="vmware" width="30" height="30"/>
+ <img src="https://pbs.twimg.com/profile_images/1328380487765688320/SJp0ObSY_400x400.png" alt="vmware" width="30" height="30"/>
  
 </p>
