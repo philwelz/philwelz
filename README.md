@@ -6,10 +6,10 @@ I'm a Senior Kubernetes & DevOps Engineer @ [white duck](whiteduck.de)
 - 👨‍💻 Member of [EveryoneCanContribute](https://everyonecancontribute.com)
 
 ## Connect with me
-<a href="https://twitter.com/tonka_2000">
+<a href="https://twitter.com/philip_welz">
     <img alt="tonka3000 | Twitter" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/twitter.svg" />
   </a>
-<a href="https://gitlab.com/">
+<a href="https://gitlab.com/phil.xx">
   <img alt="tonka3000 | Twitter" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/gitlab.svg" />
 </a>
 <a href="https://github.com/philwelz">
