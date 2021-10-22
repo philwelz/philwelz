@@ -1,5 +1,5 @@
  # Hi, I'm Philip 🙋‍♂️
-I'm a Senior Kubernetes & DevOps Engineer @ [white duck](whiteduck.de)
+I'm a Senior Kubernetes & DevOps Engineer @ [white duck](https://whiteduck.de/)
 
 ## Find me on the web 🌍
 - 🌐 Personal website with blog on [philinthe.cloud](https://philinthe.cloud/)
