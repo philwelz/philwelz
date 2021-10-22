@@ -1,31 +1,38 @@
+ # Hi, I'm Philip 🙋‍♂️
+I'm a Senior Kubernetes & DevOps Engineer @ [white duck](whiteduck.de)
 
-<!--### Hi there 👋
+## Find me on the web 🌍
+- 🌐 Personal website with blog on [philinthe.cloud](https://philinthe.cloud/)
+- 👨‍💻 Member of [EveryoneCanContribute](https://everyonecancontribute.com)
 
-**philwelz/philwelz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with me
+<a href="https://twitter.com/tonka_2000">
+    <img alt="tonka3000 | Twitter" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/twitter.svg" />
+  </a>
+<a href="https://gitlab.com/">
+  <img alt="tonka3000 | Twitter" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/gitlab.svg" />
+</a>
+<a href="https://github.com/philwelz">
+  <img alt="GitHub" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+</a>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+<img alt="Azure" align="left" width="26px" style="margin-right:15px" src="https://img.icons8.com/fluency/48/000000/azure-1.png" />
+<img alt="k8s" align="left" width="26px" style="margin-right:15px" src="https://img.icons8.com/color/48/000000/kubernetes.svg" />
+<img alt="Terraform" align="left" width="26px" style="margin-right:15px" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_terraform_icon_130125.png" />
+<img alt="Bicep" align="left" width="26px" style="margin-right:15px" src="https://pbs.twimg.com/profile_images/1328380487765688320/SJp0ObSY_400x400.png" />
+<img alt="Flux" align="left" width="26px" style="margin-right:15px" src="https://avatars.githubusercontent.com/u/52158677?s=280&v=4" />
+<img alt="ArgoCD" align="left" width="26px" style="margin-right:15px" src="https://avatars.githubusercontent.com/u/30269780?s=200&v=4" />
+<img alt="Kyverno" align="left" width="26px" style="margin-right:15px" src="https://avatars.githubusercontent.com/u/68448710?s=200&v=4" />
+<!-- <img alt="Visual Studio Code" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img alt="GitLab" align="left" width="26px" style="margin-right:15px" src="https://img.icons8.com/color/48/000000/gitlab.png" />
+<img alt="Github" align="left" width="26px" style="margin-right:15px" src="https://img.icons8.com/nolan/64/github.png" />
+<img alt="Markdown" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" /> -->
 
-<h3 align="center">Senior Kubernetes & DevOps Engineer
-<br>
-<p align="center">
- <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"  width="30" height="30" />
- <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="30" height="30"/>
- <!--<img src="https://img.icons8.com/color/48/000000/github.png" alt="github" width="30" height="30"/> -->
- <img src="https://img.icons8.com/nolan/64/github.png" alt="github2" width="30" height="30"/>
- <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" alt="vmware" width="30" height="30"/>
- <img src="https://img.icons8.com/color/48/000000/kubernetes.svg" alt="kubernetes"  width="30" height="30" />
- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_terraform_icon_130125.png" alt="terraform"  width="30" height="30" />
- <img src="https://avatars.githubusercontent.com/u/52158677?s=280&v=4" alt="vmware" width="30" height="30"/>
- <img src="https://pbs.twimg.com/profile_images/1328380487765688320/SJp0ObSY_400x400.png" alt="vmware" width="30" height="30"/>
- 
-</p>
+<br/>
+<br/>
+<br/>
+
+<img align="left" alt="tonka3000 Github Stats" src="https://github-readme-stats.vercel.app/api?username=philwelz&show_icons=true&hide_border=true" />
