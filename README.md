@@ -2,7 +2,7 @@
 I'm a GitLab Hero & Senior Kubernetes & DevOps Engineer @ [white duck](https://whiteduck.de/)
 
 ## Find me on the web 🌍
-- 🌐 Personal website with blog on [https://philinthe.cloud/](https://philipwelz.com/)
+- 🌐 Personal website with blog on [https://philipwelz.com](https://philipwelz.com/)
 - 👨‍💻 Member of [EveryoneCanContribute](https://everyonecancontribute.com)
 
 ## Connect with me
