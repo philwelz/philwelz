@@ -2,21 +2,12 @@
 
 I'm a Micrsoft Azure MVP and work as Senior Kubernetes & DevOps Engineer @ [white duck](https://whiteduck.de/) doing #AKS & #CloudNative.
 
-You can find me on:
+## 📫 How to reach me:
 
-<a href="https://twitter.com/philip_welz">
-    <img alt="philip_welz" align="left" width="26px" style="margin-right:15px" src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" />
-</a>
-<a href="https://www.linkedin.com/in/philip-welz">
-    <img alt="philip-welz" align="left" width="26px" style="margin-right:15px" src="https://static.vecteezy.com/system/resources/previews/018/930/584/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />
-</a>
-<a href="https://gitlab.com/phil.xx">
-  <img alt="phil.xx | Twitter" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/gitlab.svg" />
-</a>
-<a href="https://github.com/philwelz">
-  <img alt="GitHub" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</a>
-<br/>
+<p align="left">
+<a href="https://twitter.com/philip_welz" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/philip_welz?style=social"></a>
+<a href="https://www.linkedin.com/in/philipwelz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-philipwelz-blue?style=flat&logo=linkedin"></a>
+</p>
 
 ## 📊 Statistics
 
