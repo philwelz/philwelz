@@ -5,7 +5,7 @@ I'm a Micrsoft Azure MVP and work as Senior Kubernetes & DevOps Engineer @ [whit
 ## 📫 How to reach me:
 
 <p align="left">
-<a href="https://twitter.com/philip_welz" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/philip_welz?style=social"></a>
+<a href="https://twitter.com/philwelz" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/philwelz?style=social"></a>
 <a href="https://www.linkedin.com/in/philipwelz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-philipwelz-blue?style=flat&logo=linkedin"></a>
 </p>
 
