@@ -11,13 +11,7 @@
 ### :octocat: Github Statistics
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philwelz&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philwelz&theme=transparent)
-
-<p align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=philwelz&show_icons=true&theme=transparent" alt="philwelz" width="480" height="180" /> 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=philwelz&theme=transparent" alt="philwelz" width="480" height="180" />
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philwelz&layout=compact&hide=html&theme=transparent" alt="philwelz/> -->
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=philwelz&theme=transparent)
 
 ### :card_index: Latest Blog posts
 
