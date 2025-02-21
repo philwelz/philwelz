@@ -1,8 +1,8 @@
 # Hi, I'm Philip :tipping_hand_man:
 
-<h3>Cloud Native at ❤️ - Platform Engineer by trade.</h3>
+<h3>Cloud Native at ❤️ - Cloud Solution Architect by trade.</h3>
 
-- :computer: I’m currently working as a as Senior Kubernetes & Platform Engineer @ [white duck](https://whiteduck.de/) doing #AKS & #CloudNative.
+- :computer: I’m currently working as a as Cloud Solution Architect @ [white duck](https://whiteduck.de/) doing #AKS & #CloudNative.
 - :trophy: I'm a [Microsoft Azure MVP](https://mvp.microsoft.com/en-US/mvp/profile/74b6d12a-0cce-ed11-a7c6-000d3a5603d3) for Azure Kubernetes and Open Source
 - :speaking_head: I'm a public speaker and love to share my knowledge with the community
 - :seedling: I’m currently learning **Go**
