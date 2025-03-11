@@ -16,6 +16,7 @@
 ### :card_index: Latest Blog posts
 
 - [Enable Node autoprovisioning (NAP) on an existing AKS cluster](https://philipwelz.com/enable-nap-on-an-existing-aks-cluster)
+- [How to Deploy LibreChat (Your Own GPT) on Azure with Terraform and GitHub Actions](https://philipwelz.com/how-to-deploy-librechat-your-own-gpt-on-azure-with-terraform-and-github-actions)
 
 ## :mailbox: How to reach me
 
